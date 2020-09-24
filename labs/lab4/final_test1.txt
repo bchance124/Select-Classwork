@@ -1,0 +1,7 @@
+Enter>  2 Beijing_CN to  1 Johannesburg_SA : 7760 miles
+
+Enter>  4 Taipei_TW to  2 Beijing_CN : 1075 miles
+
+Enter> Ben unknown
+
+Enter> 

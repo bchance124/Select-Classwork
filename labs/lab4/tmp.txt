@@ -1,0 +1,120 @@
+i: 21 k: 0 j: 17
+dist(vlink[i], j): 795.000000
+i: 21 k: 1 j: 18
+dist(vlink[i], j): 1175.000000
+i: 21 k: 2 j: 20
+dist(vlink[i], j): 795.000000
+i: 21 k: 3 j: 23
+dist(vlink[i], j): 1475.000000
+i: 21 k: 4 j: 25
+dist(vlink[i], j): 635.000000
+i: 21 k: 5 j: 26
+dist(vlink[i], j): 2130.000000
+i: 21 k: 6 j: 27
+dist(vlink[i], j): 2120.000000
+i: 18 k: 3 j: 22
+dist(vlink[i], j): 1945.000000
+i: 20 k: 4 j: 24
+dist(vlink[i], j): 740.000000
+i: 25 k: 0 j: 0
+dist(vlink[i], j): 6270.000000
+i: 25 k: 2 j: 13
+dist(vlink[i], j): 4105.000000
+i: 25 k: 4 j: 16
+dist(vlink[i], j): 4500.000000
+i: 25 k: 6 j: 19
+dist(vlink[i], j): 4515.000000
+i: 25 k: 10 j: 29
+dist(vlink[i], j): 4890.000000
+i: 22 k: 0 j: 5
+dist(vlink[i], j): 5835.000000
+i: 22 k: 8 j: 28
+dist(vlink[i], j): 5545.000000
+i: 0 k: 0 j: 1
+dist(vlink[i], j): 8025.000000
+i: 0 k: 2 j: 7
+dist(vlink[i], j): 8355.000000
+i: 0 k: 4 j: 9
+dist(vlink[i], j): 9580.000000
+i: 13 k: 2 j: 14
+dist(vlink[i], j): 3605.000000
+i: 16 k: 6 j: 11
+dist(vlink[i], j): 4780.000000
+i: 16 k: 7 j: 12
+dist(vlink[i], j): 3865.000000
+i: 16 k: 9 j: 15
+dist(vlink[i], j): 4695.000000
+i: 19 k: 2 j: 10
+dist(vlink[i], j): 9995.000000
+i: 5 k: 1 j: 2
+dist(vlink[i], j): 6290.000000
+i: 5 k: 2 j: 4
+dist(vlink[i], j): 6815.000000
+i: 5 k: 3 j: 6
+dist(vlink[i], j): 5990.000000
+i: 7 k: 4 j: 8
+dist(vlink[i], j): 2770.000000
+ 21 Knoxville_TN   0
+ 25 New_York_NY 635
+  0 Cairo_EG 6905
+  9 Singapore_SG 16485
+i: 21 k: 0 j: 17
+dist(vlink[i], j): 795.000000
+i: 21 k: 1 j: 18
+dist(vlink[i], j): 1175.000000
+i: 21 k: 2 j: 20
+dist(vlink[i], j): 795.000000
+i: 21 k: 3 j: 23
+dist(vlink[i], j): 1475.000000
+i: 21 k: 4 j: 25
+dist(vlink[i], j): 635.000000
+i: 21 k: 5 j: 26
+dist(vlink[i], j): 2130.000000
+i: 21 k: 6 j: 27
+dist(vlink[i], j): 2120.000000
+i: 18 k: 3 j: 22
+dist(vlink[i], j): 1945.000000
+i: 20 k: 4 j: 24
+dist(vlink[i], j): 740.000000
+i: 25 k: 0 j: 0
+dist(vlink[i], j): 6270.000000
+i: 25 k: 2 j: 13
+dist(vlink[i], j): 4105.000000
+i: 25 k: 4 j: 16
+dist(vlink[i], j): 4500.000000
+i: 25 k: 6 j: 19
+dist(vlink[i], j): 4515.000000
+i: 25 k: 10 j: 29
+dist(vlink[i], j): 4890.000000
+i: 22 k: 0 j: 5
+dist(vlink[i], j): 5835.000000
+i: 22 k: 8 j: 28
+dist(vlink[i], j): 5545.000000
+i: 0 k: 0 j: 1
+dist(vlink[i], j): 8025.000000
+i: 0 k: 2 j: 7
+dist(vlink[i], j): 8355.000000
+i: 0 k: 4 j: 9
+dist(vlink[i], j): 9580.000000
+i: 13 k: 2 j: 14
+dist(vlink[i], j): 3605.000000
+i: 16 k: 6 j: 11
+dist(vlink[i], j): 4780.000000
+i: 16 k: 7 j: 12
+dist(vlink[i], j): 3865.000000
+i: 16 k: 9 j: 15
+dist(vlink[i], j): 4695.000000
+i: 19 k: 2 j: 10
+dist(vlink[i], j): 9995.000000
+i: 5 k: 1 j: 2
+dist(vlink[i], j): 6290.000000
+i: 5 k: 2 j: 4
+dist(vlink[i], j): 6815.000000
+i: 5 k: 3 j: 6
+dist(vlink[i], j): 5990.000000
+i: 7 k: 4 j: 8
+dist(vlink[i], j): 2770.000000
+ 21 Knoxville_TN   0
+ 25 New_York_NY   0
+  0 Cairo_EG   0
+  9 Singapore_SG   0

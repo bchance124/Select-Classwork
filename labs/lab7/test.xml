@@ -1,0 +1,339 @@
+<student>
+  <name="Oliver Sutton"/>
+  <category="Senior"/>
+  <course="CS1 Problem Solving" gp="2.5"/>
+  <course="PH1 Perms and Waves" gp="4"/>
+  <course="CS4 Reading Core Dumps" gp="2"/>
+</student>
+
+<student>
+  <name="Tina Ryhard"/>
+  <category="Sophomore"/>
+  <course="CS3 Pear Programming" gp="3.5"/>
+  <course="MA1 Math for Chumps" gp="3"/>
+  <course="CS5 Web Apples" gp="2"/>
+</student>
+
+<student>
+  <name="Joe King"/>
+  <category="Freshman"/>
+  <course="CS1 Problem Solving" gp="2"/>
+  <course="CS4 Reading Core Dumps" gp="2.5"/>
+  <course="CS3 Pear Programming" gp="3"/>
+</student>
+
+<student>
+  <name="Fran Tic"/>
+  <category="Senior"/>
+  <course="CS2 Pointy Pointers" gp="3"/>
+  <course="PH1 Perms and Waves" gp="3.5"/>
+</student>
+
+<student>
+  <name="Sy Burnett"/>
+  <category="Junior"/>
+  <course="CS3 Pear Programming" gp="3"/>
+  <course="CS4 Reading Core Dumps" gp="3"/>
+  <course="CS2 Pointy Pointers" gp="4"/>
+</student>
+
+<student>
+  <name="Andy Friese"/>
+  <category="Sophomore"/>
+  <course="CS5 Web Apples" gp="3.5"/>
+  <course="PH2 Particle Bored" gp="3"/>
+  <course="CS4 Reading Core Dumps" gp="3"/>
+</student>
+
+<student>
+  <name="Brighton Early"/>
+  <category="Freshman"/>
+  <course="CS4 Reading Core Dumps" gp="4"/>
+  <course="CS3 Pear Programming" gp="3.5"/>
+  <course="CS5 Web Apples" gp="2"/>
+</student>
+
+<student>
+  <name="Cara Van"/>
+  <category="Freshman"/>
+  <course="CS4 Reading Core Dumps" gp="3"/>
+</student>
+
+<student>
+  <name="Scott Free"/>
+  <category="Senior"/>
+  <course="CS2 Pointy Pointers" gp="4"/>
+  <course="CS3 Pear Programming" gp="2"/>
+  <course="PH2 Particle Bored" gp="3"/>
+</student>
+
+<student>
+  <name="Anna Graham"/>
+  <category="Freshman"/>
+  <course="MA1 Math for Chumps" gp="3"/>
+  <course="CS5 Web Apples" gp="3.5"/>
+  <course="CS1 Problem Solving" gp="4"/>
+</student>
+
+<student>
+  <name="Myles Long"/>
+  <category="Senior"/>
+  <course="CS3 Pear Programming" gp="2.5"/>
+</student>
+
+<student>
+  <name="Carrie Oakey"/>
+  <category="Senior"/>
+  <course="CS5 Web Apples" gp="3.5"/>
+  <course="PH2 Particle Bored" gp="2"/>
+  <course="CS1 Problem Solving" gp="4"/>
+</student>
+
+<student>
+  <name="Kenny Dewitt"/>
+  <category="Freshman"/>
+  <course="CS4 Reading Core Dumps" gp="2.5"/>
+  <course="PH1 Perms and Waves" gp="4"/>
+  <course="CS1 Problem Solving" gp="2.5"/>
+</student>
+
+<student>
+  <name="Lou Tenant"/>
+  <category="Sophomore"/>
+  <course="PH1 Perms and Waves" gp="3.5"/>
+  <course="CS1 Problem Solving" gp="2.5"/>
+  <course="CS2 Pointy Pointers" gp="3"/>
+</student>
+
+<student>
+  <name="Sue Yu"/>
+  <category="Junior"/>
+  <course="PH1 Perms and Waves" gp="2"/>
+  <course="CS2 Pointy Pointers" gp="2"/>
+  <course="CS5 Web Apples" gp="3"/>
+</student>
+
+<student>
+  <name="Jean Poole"/>
+  <category="Senior"/>
+  <course="CS1 Problem Solving" gp="4"/>
+  <course="CS3 Pear Programming" gp="3"/>
+  <course="CS5 Web Apples" gp="2.5"/>
+</student>
+
+<student>
+  <name="Bob Iznogood"/>
+  <category="Junior"/>
+  <course="CS4 Reading Core Dumps" gp="2"/>
+  <course="CS3 Pear Programming" gp="2.5"/>
+  <course="PH1 Perms and Waves" gp="3"/>
+</student>
+
+<student>
+  <name="Ella Mentry"/>
+  <category="Senior"/>
+  <course="PH1 Perms and Waves" gp="2.5"/>
+  <course="CS2 Pointy Pointers" gp="2"/>
+  <course="CS1 Problem Solving" gp="4"/>
+</student>
+
+<student>
+  <name="Anna Fender"/>
+  <category="Sophomore"/>
+  <course="CS5 Web Apples" gp="3.5"/>
+  <course="PH1 Perms and Waves" gp="4"/>
+  <course="CS1 Problem Solving" gp="3"/>
+</student>
+
+<student>
+  <name="Robin Banks"/>
+  <category="Sophomore"/>
+  <course="CS2 Pointy Pointers" gp="2.5"/>
+  <course="CS1 Problem Solving" gp="2.5"/>
+  <course="MA1 Math for Chumps" gp="3"/>
+</student>
+
+<faculty>
+  <name="Dick Tator"/>
+  <category="Associate Professor"/>
+  <course="CS3 Pear Programming"/>
+  <course="CS1 Problem Solving"/>
+</faculty>
+
+<student>
+  <name="Anita Bath"/>
+  <category="Junior"/>
+  <course="PH1 Perms and Waves" gp="3"/>
+</student>
+
+<student>
+  <name="Amanda Lynn"/>
+  <category="Sophomore"/>
+  <course="CS4 Reading Core Dumps" gp="2"/>
+</student>
+
+<student>
+  <name="Emma Lusa"/>
+  <category="Junior"/>
+  <course="PH2 Particle Bored" gp="4"/>
+  <course="CS2 Pointy Pointers" gp="4"/>
+</student>
+
+<student>
+  <name="Warren Peace"/>
+  <category="Junior"/>
+  <course="MA1 Math for Chumps" gp="4"/>
+  <course="CS1 Problem Solving" gp="2"/>
+</student>
+
+<student>
+  <name="Terry Aki"/>
+  <category="Sophomore"/>
+  <course="CS4 Reading Core Dumps" gp="3.5"/>
+  <course="MA1 Math for Chumps" gp="2.5"/>
+  <course="PH1 Perms and Waves" gp="3"/>
+</student>
+
+<student>
+  <name="Chriss Cross"/>
+  <category="Junior"/>
+  <course="MA1 Math for Chumps" gp="3"/>
+  <course="CS5 Web Apples" gp="2.5"/>
+</student>
+
+<student>
+  <name="Armand Hammer"/>
+  <category="Senior"/>
+  <course="CS2 Pointy Pointers" gp="2.5"/>
+</student>
+
+<student>
+  <name="Sandy Banks"/>
+  <category="Freshman"/>
+  <course="CS2 Pointy Pointers" gp="3.5"/>
+  <course="PH1 Perms and Waves" gp="2.5"/>
+  <course="CS3 Pear Programming" gp="3.5"/>
+</student>
+
+<student>
+  <name="Barry Cade"/>
+  <category="Junior"/>
+  <course="PH1 Perms and Waves" gp="2"/>
+  <course="CS5 Web Apples" gp="2.5"/>
+  <course="PH2 Particle Bored" gp="2"/>
+</student>
+
+<student>
+  <name="Duane Pipe"/>
+  <category="Sophomore"/>
+  <course="CS3 Pear Programming" gp="3.5"/>
+  <course="CS2 Pointy Pointers" gp="3.5"/>
+</student>
+
+<student>
+  <name="Rose Bush"/>
+  <category="Freshman"/>
+  <course="CS1 Problem Solving" gp="2.5"/>
+  <course="CS2 Pointy Pointers" gp="4"/>
+  <course="CS5 Web Apples" gp="2.5"/>
+</student>
+
+<faculty>
+  <name="Eileen Dover"/>
+  <category="Associate Professor"/>
+  <course="CS2 Pointy Pointers"/>
+  <course="CS1 Problem Solving"/>
+  <course="MA1 Math for Chumps"/>
+</faculty>
+
+<faculty>
+  <name="Les Moore"/>
+  <category="Associate Professor"/>
+  <course="CS3 Pear Programming"/>
+  <course="CS1 Problem Solving"/>
+  <course="CS2 Pointy Pointers"/>
+</faculty>
+
+<student>
+  <name="Sarah Bellum"/>
+  <category="Senior"/>
+  <course="CS2 Pointy Pointers" gp="4"/>
+  <course="CS3 Pear Programming" gp="3"/>
+  <course="PH1 Perms and Waves" gp="2.5"/>
+</student>
+
+<student>
+  <name="Isadore Bell"/>
+  <category="Junior"/>
+  <course="CS1 Problem Solving" gp="4"/>
+</student>
+
+<student>
+  <name="Jay Walker"/>
+  <category="Senior"/>
+  <course="CS4 Reading Core Dumps" gp="3.5"/>
+</student>
+
+<student>
+  <name="Neil Down"/>
+  <category="Junior"/>
+  <course="CS1 Problem Solving" gp="4"/>
+  <course="CS3 Pear Programming" gp="3.5"/>
+  <course="CS5 Web Apples" gp="4"/>
+</student>
+
+<faculty>
+  <name="Edna May"/>
+  <category="Associate Professor"/>
+  <course="MA1 Math for Chumps"/>
+  <course="CS4 Reading Core Dumps"/>
+  <course="PH2 Particle Bored"/>
+</faculty>
+
+<student>
+  <name="Leigh King"/>
+  <category="Senior"/>
+  <course="PH1 Perms and Waves" gp="3"/>
+  <course="CS4 Reading Core Dumps" gp="3"/>
+</student>
+
+<student>
+  <name="Barb Dwyer"/>
+  <category="Freshman"/>
+  <course="MA1 Math for Chumps" gp="4"/>
+  <course="CS5 Web Apples" gp="3"/>
+  <course="CS3 Pear Programming" gp="4"/>
+</student>
+
+<student>
+  <name="Holly Wood"/>
+  <category="Freshman"/>
+  <course="MA1 Math for Chumps" gp="4"/>
+  <course="CS2 Pointy Pointers" gp="4"/>
+</student>
+
+<student>
+  <name="Paige Turner"/>
+  <category="Senior"/>
+  <course="CS1 Problem Solving" gp="2.5"/>
+</student>
+
+<student>
+  <name="Justin Case"/>
+  <category="Sophomore"/>
+  <course="CS3 Pear Programming" gp="4"/>
+</student>
+
+<student>
+  <name="Molly Koehl"/>
+  <category="Sophomore"/>
+  <course="CS1 Problem Solving" gp="2"/>
+  <course="MA1 Math for Chumps" gp="3"/>
+  <course="CS5 Web Apples" gp="3"/>
+</student>
+
+<faculty>
+  <name="Bill Ding"/>
+  <category="Full Professor"/>
+  <course="PH1 Perms and Waves"/>
+</faculty>

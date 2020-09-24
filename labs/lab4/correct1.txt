@@ -1,0 +1,7 @@
+Enter>        0 miles :  3 Hong_Kong_CN        
+    1615 miles :  9 Singapore_SG            1615 miles
+    6775 miles :  0 Cairo_EG                5160 miles
+   12415 miles : 25 New_York_NY             5640 miles
+   13050 miles : 21 Knoxville_TN             635 miles
+
+Enter> 

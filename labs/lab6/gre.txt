@@ -1,0 +1,21 @@
+0a1
+> Poem by Ivana Bedone
+4,5c5,6
+< Though it didn't gnaw or nibble
+< and it didn't chomp or chew.
+---
+> I thought I knew what I was doing,
+> but it's clear I had no clue.
+7,10c8,11
+< It devoured days of typing,
+< every picture, chart and graph,
+< but the worst thing about it 
+< was I thought I heard it laugh.
+---
+> It wiped out days of typing,
+> every keystroke that I'd made,
+> What really got me though, 
+> was it could have all been saved
+16,17d16
+< 
+< H. Iznogood

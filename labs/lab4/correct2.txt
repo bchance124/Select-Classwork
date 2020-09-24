@@ -1,0 +1,8 @@
+Enter>        0 miles :  3 Hong_Kong_CN        
+     505 miles :  4 Taipei_TW                505 miles
+    1820 miles :  5 Tokyo_JP                1315 miles
+    7325 miles : 22 Los_Angeles_CA          5505 miles
+    8165 miles : 18 Denver_CO                840 miles
+    9340 miles : 21 Knoxville_TN            1175 miles
+
+Enter> 
